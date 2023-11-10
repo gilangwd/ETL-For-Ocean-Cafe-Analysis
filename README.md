@@ -23,10 +23,11 @@ This ETL projects perform a batch processing with scheduler for automation using
 - `Ocean_Cafe_Analysis.pptx` : Power Point containing data visualization and analysis result for presentation.
 
 ## Airflow Process
+Airflow process contains three main processes which is data extraction, data cleaning and data saving. This process is scheduled every 6.30 AM everyday. Here are the DAGs result.
 ![Airflow Process](./images/airflow_process.png)
 
 ## Exploratory Data Analysis
-Here are the data analysis process.
+To achieve the Ocean Cafe goals, we need to perform data analysis and create a visualization for better understanding so we can get conclusion and give some suggestion for the restaurant.
 
 ### Sales by Month
 ---
