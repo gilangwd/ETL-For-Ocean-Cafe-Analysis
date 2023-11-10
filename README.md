@@ -1,5 +1,5 @@
 # ETL for Ocean Cafe Analysis using Airflow
-This repository contains an automated scheduler for data pre-processing using Apache Airflow for the Ocean Cafe in Canada. The project is designed to help the restaurant to improve sales and provide the best possible service to its customers.
+This repository contains an automated scheduler for data pre-processing using Apache Airflow for the Ocean Cafe Analysis. The project is designed to help the restaurant to improve sales and provide the best possible service to its customers.
 
 
 ## Project Overview
