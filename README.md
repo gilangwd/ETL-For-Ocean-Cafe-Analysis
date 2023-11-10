@@ -27,7 +27,7 @@ This ETL projects perform a batch processing with scheduler for automation using
 
 ## Exploratory Data Analysis
 Here are the data analysis process.
-
+---
 ### Sales by Month
 ![Sales by Month](./images/plot_01.png)
 
