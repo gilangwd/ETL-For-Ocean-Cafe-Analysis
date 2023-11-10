@@ -1,2 +1,2 @@
-# ETL-For-Ocean-Cafe-Analysis
-Developed and automated scheduler for data pre-processing using Apache Airflow for the Ocean Cafe Analysis.
+# ETL-For-Ocean-Cafe-Analysis-Using-Airflow
+This repository contains an automated scheduler for data pre-processing using Apache Airflow for the Ocean Cafe in Canada. The project include data extraction from PostgreSQL Database, performing data cleaning and then data validation using Great Expectation to ensure data quality and consistency. This clean data then saved to Elasticsearch to be analyzed and visualized using Kibana.
