@@ -23,13 +23,11 @@ This ETL projects perform a batch processing with scheduler for automation using
 - `Ocean_Cafe_Analysis.pptx` : Power Point containing data visualization and analysis result for presentation.
 
 ## Airflow Process
----
 ![Airflow Process](./images/airflow_process.png)
 
 ## Exploratory Data Analysis
----
 ### Sales by Month
-![Sales by Month](./data_airflow.png)
+![Sales by Month](./images/plot_01.png)
 
 ## Conclusion
 - Based on the Exploratory Data Analysis we do, we found that the restaurant have **declining revenue** for the **last 3 month** that is **caused by** a **decrease in the number of customers** in the last 3 month. 
