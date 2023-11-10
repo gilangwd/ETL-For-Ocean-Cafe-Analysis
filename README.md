@@ -29,21 +29,27 @@ This ETL projects perform a batch processing with scheduler for automation using
 Here are the data analysis process.
 
 ### Sales by Month
-![Sales by Month](./images/plot_01.png)
 ---
-### Sales by Month
+![Sales by Month](./images/plot_01.png)
+
+### Sales per Category by Month
+---
 ![Sales by Month](./images/plot_02.png)
 
-### Sales by Month
+### Top Category Sold by Quantity
+---
 ![Sales by Month](./images/plot_03.png)
 
-### Sales by Month
+### Best Selling Food
+---
 ![Sales by Month](./images/plot_04.png)
 
-### Sales by Month
+### Most Customer by Day
+---
 ![Sales by Month](./images/plot_05.png)
 
-### Sales by Month
+### Most Customer by Month
+---
 ![Sales by Month](./images/plot_06.png)
 
 ## Conclusion
