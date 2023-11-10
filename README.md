@@ -54,16 +54,17 @@ To achieve the Ocean Cafe goals, we need to perform data analysis and create a v
 ![Sales by Month](./images/plot_06.png)
 
 ## Conclusion
-- Based on the Exploratory Data Analysis we do, we found that the restaurant have **declining revenue** for the **last 3 month** that is **caused by** a **decrease in the number of customers** in the last 3 month. 
+Based on the Exploratory Data Analysis we do, we found :
+- The restaurant have **declining revenue** for the **last 3 month** that is **caused by** a **decrease in the number of customers** in the last 3 month. 
 - The restaurant best-selling food is **Ocean Special Shake** and **Poutine with Fries**.
 - Category product with highest sales for restaurant is **Tobacco**.
 
 ## Suggestion
-- Bundling best selling food with complementary item.
-- Train staff to upselling and cross-selling.
-- Ensure staff is well-prepared to handle higher volume of customer during busy hour
-- Offer special discount for off-peak day.
-- Host special events for the slowest month.
+- Consider bundling best selling food with complementary item or sides to increase the average check size.
+- Train staff to upselling and cross-selling, Encourage them to suggest additional items or upgrade to customers who order the best-selling product.
+- Ensure staff is well-prepared to handle higher volume of customer efficiently during busy day.
+- Implement promotions or discounts to attract more diners. The restaurant can offer special deal, happy hour or early bird specials to encourages reservations or walk-ins during off-peak day.
+- On slowest month, try to host special events for the month to draw in more customers. For example Christmas Theme and and event at December, New Year event at January and Valentine Theme and event at February.
 
 ## Acknowledgements
 The Ocean Cafe Transaction data used in this project was obtained from [Kaggle](https://www.kaggle.com/datasets/gladinvarghese/cafeocean)
