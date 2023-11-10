@@ -26,8 +26,25 @@ This ETL projects perform a batch processing with scheduler for automation using
 ![Airflow Process](./images/airflow_process.png)
 
 ## Exploratory Data Analysis
+Here are the data analysis process.
+
 ### Sales by Month
 ![Sales by Month](./images/plot_01.png)
+
+### Sales by Month
+![Sales by Month](./images/plot_02.png)
+
+### Sales by Month
+![Sales by Month](./images/plot_03.png)
+
+### Sales by Month
+![Sales by Month](./images/plot_04.png)
+
+### Sales by Month
+![Sales by Month](./images/plot_05.png)
+
+### Sales by Month
+![Sales by Month](./images/plot_06.png)
 
 ## Conclusion
 - Based on the Exploratory Data Analysis we do, we found that the restaurant have **declining revenue** for the **last 3 month** that is **caused by** a **decrease in the number of customers** in the last 3 month. 
