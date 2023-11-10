@@ -20,8 +20,19 @@ This ETL projects perform a batch processing with scheduler for automation using
 - `ocean_cafe_data_raw.csv` : CSV file containing the raw data of Ocean Cafe transaction.
 - `ocean_cafe_data_clean.csv` : CSV file containing the clean data of Ocean Cafe transaction.
 - `images/` : Folder containing data visualization and analysis result.
+- `Ocean_Cafe_Analysis.pptx` : Power Point containing data visualization and analysis result for presentation.
 
 ## Conclusion
-- Based on the Exploratory Data Analysis we do, we found that the restaurant have `declining revenue` for the `last 3 month` that is `caused by` a `decrease in the number of customers` in the last 3 month. 
-- The restaurant best-selling food is `Ocean Special Shake` and `Poutine with Fries`.
-- Category product with highest sales for restaurant is `Tobacco`.
+- Based on the Exploratory Data Analysis we do, we found that the restaurant have **declining revenue** for the **last 3 month** that is **caused by** a **decrease in the number of customers** in the last 3 month. 
+- The restaurant best-selling food is **Ocean Special Shake** and **Poutine with Fries**.
+- Category product with highest sales for restaurant is **Tobacco**.
+
+## Suggestion
+- Bundling best selling food with complementary item.
+- Train staff to upselling and cross-selling.
+- Ensure staff is well-prepared to handle higher volume of customer during busy hour
+- Offer special discount for off-peak day.
+- Host special events for the slowest month.
+
+## Acknowledgements
+The Ocean Cafe Transaction data used in this project was obtained from [Kaggle](https://www.kaggle.com/datasets/gladinvarghese/cafeocean)
